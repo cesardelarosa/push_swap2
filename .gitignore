@@ -1,7 +1,6 @@
 *
 !.gitignore
 !.gitmodules
-!*/
 !include/*.h
 !libft/*.h
 !libft/*.c
